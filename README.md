@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi, I'm Rashi, a Software Developer from India 🇮🇳
 <!--
 **rashi0299/rashi0299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
